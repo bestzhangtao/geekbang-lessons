@@ -13,6 +13,15 @@
         <module>ioc-container-overview</module>
         <module>spring-bean</module>
         <module>dependency-lookup</module>
+        <module>dependency-injection</module>
+        <module>dependency-source</module>
+        <module>bean-scope</module>
+        <module>bean-lifecycle</module>
+        <module>configuration-metadata</module>
+        <module>resource</module>
+        <module>i18n</module>
+        <module>validation</module>
+        <module>data-binding</module>
     </modules>
 
     <properties>
